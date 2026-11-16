@@ -4,7 +4,7 @@
 
 ### Full Stack Developer 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Software+Engineer;Computer+Science+Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Software Engineer, Computer Science Graduate, and Code Pirate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Bachelor Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Bachelor Graduate, Code Name Pirate" />
 
 Kathmandu, Nepal | BSc Computer Science, The British College (Leeds Beckett University)
 
@@ -18,7 +18,7 @@ Kathmandu, Nepal | BSc Computer Science, The British College (Leeds Beckett Univ
 
 ## About
 
-I'm a Computer Science graduate from **The British College (Leeds Beckett University)** and work as a **Full Stack Developer / Software Engineer at Techie IT**. I build and maintain web applications, deliver solutions for clients, and work across integrations, deployments, and ongoing website support.
+I'm a Computer Science graduate from **The British College (Leeds Beckett University)** and work as a **Full Stack Developer /Bachelor Graduate**. I build and maintain web applications, deliver solutions for clients, and work across integrations, deployments, and ongoing website support.
 
 ## Selected Projects
 
@@ -30,7 +30,7 @@ I'm a Computer Science graduate from **The British College (Leeds Beckett Univer
 
 ## Experience
 
-**Full Stack Developer / Software Engineer - Techie IT**  
+**Full Stack Developer/ Bachelor Graduate - Techie IT**  
 *January 2026 - Present*
 
 - Develop and maintain websites and full-stack applications using React, HTML, CSS, JavaScript, and SQL.
