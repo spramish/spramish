@@ -1,84 +1,63 @@
- <div align="center">
+<div align="center">
 
 # Pramish Sharma
 
-### Full Stack Developer | Computer Science Graduate
+### Full Stack Developer / Software Engineer at Techie IT
 
-*"Turning ideas into innovation, and challenges into solutions."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Software+Engineer;Computer+Science+Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Software Engineer, Computer Science Graduate, and Code Pirate" />
 
-**BUILD • INNOVATE • IMPROVE**
+Kathmandu, Nepal | BSc Computer Science, The British College (Leeds Beckett University)
 
-[![GitHub](https://img.shields.io/badge/GitHub-spramish-181717?style=for-the-badge&logo=github)](https://github.com/spramish)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramish_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pramish-sharma-37150133a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pramishsharma.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramish_Sharma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramish-sharma-37150133a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pramishsharma.com.np-2F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pramishsharma.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-spramish-181717?style=flat-square&logo=github)](https://github.com/spramish)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Science graduate and Full Stack Developer at **Techie IT**. I enjoy developing web applications, exploring new technologies, and turning ideas into practical software projects.
+I'm a Computer Science graduate from **The British College (Leeds Beckett University)** and work as a **Full Stack Developer / Software Engineer at Techie IT**. I build and maintain web applications, deliver solutions for clients, and work across integrations, deployments, and ongoing website support.
 
-- Currently working on full-stack web applications.
-- Interested in software development, automation, and AI-powered applications.
-- Learning through hands-on projects and real-world development experience.
-- Always exploring better ways to build and improve software.
+## Selected Projects
 
-## Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [NEPSE Market Prediction System](https://github.com/spramish/Nepse-Prediction-System) | Stock analysis and prediction with risk/reward management. | Java, React, Python |
-| Medical Recommendation System | Healthcare management system with AI-assisted health information. | Python, React, MySQL |
-| One-Click Social Media Video Publisher | Developing a tool to publish videos across multiple social platforms. | JavaScript, React, Python |
-| Random Email Generator | A Python application for generating random email addresses. | Python |
-
-## Technologies & Tools
-
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+- **Banking System** - C++ banking application for account administration and transactions. *Sep 2023*
+- **Random Email Generator** - Python project using randomization and text manipulation to generate email addresses. *Dec 2024*
+- **Medical Recommendation System** - Healthcare management application with patient records and AI-assisted recommendations. *Python, React.js, MySQL, Machine Learning | May 2025*
+- **[NEPSE Market Prediction System](https://github.com/spramish/Nepse-Prediction-System)** - NEPSE stock analysis and prediction with candlestick patterns, volatility analysis, and risk/reward management. *Java, React.js, Python | Jul 2025*
+- **One-Click Social Media Video Publisher** - In development: cross-platform video publishing with AI-assisted account management and posting-time optimization. *JavaScript, HTML, CSS, React.js, Python | Sep 2026 - Present*
 
 ## Experience
 
-**Full Stack Developer / Software Engineer — Techie IT**
+**Full Stack Developer / Software Engineer - Techie IT**  
+*January 2026 - Present*
 
-January 2026 – Present
+- Develop and maintain websites and full-stack applications using React, HTML, CSS, JavaScript, and SQL.
+- Deliver client solutions, including integrations, deployments, website management, and ongoing support.
 
-Developing and maintaining websites and full-stack applications, including deployment, integrations, and ongoing client support.
+## Technical Skills
+
+- **Languages:** C, C++, C#, Java, Python, TypeScript, SQL, R, PHP
+- **Web and frameworks:** React.js, Next.js, Node.js, Express.js, FastAPI, Spring Boot, HTML, CSS, JavaScript
+- **Data:** MongoDB, MySQL, PostgreSQL, SQL, Oracle APEX
+- **Cloud and deployment:** AWS (CloudFront, EC2, S3), Cloudflare, Apache Server
+- **Tools:** VS Code, XAMPP, Postman, Android Studio, Google Drive API, Figma
+- **Mobile:** Flutter, Kotlin (basic)
+
+## Education
+
+**The British College (Leeds Beckett University)**  
+BSc Computer Science | January 2021 - September 2025
 
 ## Achievement
 
-**Hult Prize** — Selected participant in project-based activities.
+**Hult Prize** - Participant in project-based activities associated with the Hult Prize.
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile!**
-
-*Learn. Build. Improve. Repeat.*
+*Build with purpose. Learn by doing. Keep improving.*
 
 </div>
