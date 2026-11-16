@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Pramish Sharma
 
-### Full Stack Developer 
+### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Bachelor Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Bachelor Graduate, Code Name Pirate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Bachelor+Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Bachelor Graduate, Code Pirate" />
 
 Kathmandu, Nepal | BSc Computer Science, The British College (Leeds Beckett University)
 
