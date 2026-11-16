@@ -2,7 +2,7 @@
 
 # Pramish Sharma
 
-### Full Stack Developer / Software Engineer at Techie IT
+### Full Stack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Software+Engineer;Computer+Science+Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Software Engineer, Computer Science Graduate, and Code Pirate" />
 
