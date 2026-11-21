@@ -20,13 +20,7 @@
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Turning+coffee+into+working+products+☕;One+commit+closer+to+the+next+idea+🚀" alt="Animated status" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/People/Man%20Technologist.png" width="28" /> About Me
+## 👨‍💻 About Me
 
 > Computer Science graduate, full-stack developer, and curious builder from Kathmandu, Nepal.
 
@@ -38,7 +32,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Technology Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
@@ -54,7 +48,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Rocket.png" width="28" /> Featured Work
+## 🚀 Featured Work
 
 | Project | What it does | Technology |
 | :--- | :--- | :--- |
@@ -72,7 +66,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Travel%20and%20places/Briefcase.png" width="28" /> Experience
+## 💼 Experience
 
 ### Full Stack Developer — Techie IT
 **January 2026 – Present**
@@ -83,7 +77,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -110,13 +104,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Trophy.png" width="28" /> Recognition & Education
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=spramish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/spramish)
-
-</div>
+## 🏆 Recognition & Education
 
 - 🏆 **Hult Prize** — Participant in project-based innovation activities
 - 🎓 **BSc Computer Science** — The British College (Leeds Beckett University), 2021–2025
