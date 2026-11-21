@@ -13,7 +13,15 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=spramish&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open_To-Collaboration-22C55E?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
+<img src="https://img.shields.io/badge/Based_In-Kathmandu,_Nepal-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Kathmandu, Nepal" />
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Turning+coffee+into+working+products+☕;One+commit+closer+to+the+next+idea+🚀" alt="Animated status" />
 </div>
 
 ---
@@ -88,9 +96,27 @@
 
 </div>
 
+<div align="center">
+
+[![Pramish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spramish&theme=tokyo-night&hide_border=true&area=true&custom_title=Pramish's%20Contribution%20Activity)](https://github.com/spramish)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spramish/spramish/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spramish/spramish/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/spramish/spramish/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Trophy.png" width="28" /> Recognition & Education
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=spramish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/spramish)
+
+</div>
 
 - 🏆 **Hult Prize** — Participant in project-based innovation activities
 - 🎓 **BSc Computer Science** — The British College (Leeds Beckett University), 2021–2025
