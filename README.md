@@ -20,6 +20,28 @@
 
 ---
 
+## 🚀 Featured Work
+
+<div align="center">
+
+[![Featured projects](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=NEPSE+market+analytics;AI-assisted+medical+recommendations;Cross-platform+video+publishing;Banking+management+with+C%2B%2B)](https://github.com/spramish)
+
+| Project | What it does | Technology |
+| :--- | :--- | :--- |
+| [**NEPSE Market Prediction System**](https://github.com/spramish/Nepse-Prediction-System) | Stock analysis with rankings, technical indicators, and risk/reward insights. | Python |
+| [**Medical Recommendation System**](https://github.com/spramish/medical-recommendation-system-2025-final-solo-project-college) | Predicts probable diseases from symptoms and recommends medications, precautions, diet, and workouts. | Python · Flask · Vue 3 · scikit-learn |
+| [**One-Click Social Media Publisher**](https://github.com/spramish/one-click-social-media-publisher) | Publishes videos across Facebook, Instagram, YouTube, and TikTok. | FastAPI · Next.js · Celery · PostgreSQL · Redis |
+| [**Banking Management System**](https://github.com/spramish/Banking-management-system) | Manages accounts, customer records, deposits, withdrawals, and transactions. | C++ |
+
+<a href="https://github.com/spramish/Nepse-Prediction-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=Nepse-Prediction-System&theme=tokyonight&hide_border=true" alt="NEPSE Market Prediction System repository card" /></a>
+<a href="https://github.com/spramish/medical-recommendation-system-2025-final-solo-project-college"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=medical-recommendation-system-2025-final-solo-project-college&theme=tokyonight&hide_border=true" alt="Medical Recommendation System repository card" /></a>
+<a href="https://github.com/spramish/one-click-social-media-publisher"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=one-click-social-media-publisher&theme=tokyonight&hide_border=true" alt="One-click Social Media Publisher repository card" /></a>
+<a href="https://github.com/spramish/Banking-management-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=Banking-management-system&theme=tokyonight&hide_border=true" alt="Banking Management System repository card" /></a>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 > Computer Science graduate, full-stack developer, and curious builder from Kathmandu, Nepal.
@@ -48,28 +70,10 @@
 
 ---
 
-## 🚀 Featured Work
-
-| Project | What it does | Technology |
-| :--- | :--- | :--- |
-| [**NEPSE Market Prediction System**](https://github.com/spramish/Nepse-Prediction-System) | Stock analysis and prediction using candlestick patterns, volatility analysis, and risk/reward management. | Java · React · Python |
-| **Medical Recommendation System** | Healthcare management with patient records and AI-assisted recommendations. | Python · React · MySQL · ML |
-| **Random Email Generator** | Generates email addresses through Python randomization and text manipulation. | Python |
-| **Banking System** | Account administration and transaction workflows in a C++ application. | C++ |
-| **Social Media Video Publisher** | Cross-platform AI-assisted publishing and post-time optimization. | React · JavaScript · Python |
-
-<div align="center">
-
-[![NEPSE Project](https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=Nepse-Prediction-System&theme=tokyonight&hide_border=true)](https://github.com/spramish/Nepse-Prediction-System)
-
-</div>
-
----
-
 ## 💼 Experience
 
 ### Full Stack Developer — Techie IT
-**January 2026 – Present**
+**2026**
 
 - Develop and maintain websites and full-stack applications.
 - Work with React, HTML, CSS, JavaScript, SQL, and modern backend tools.
@@ -81,7 +85,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=spramish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spramish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
