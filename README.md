@@ -1,64 +1,109 @@
-
 <div align="center">
 
-# Pramish Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:7c3aed&text=Pramish%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Code%20Pirate&descAlignY=58&descSize=18" alt="Pramish Sharma" />
 
-### Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+ideas+into+real-world+products;Full-stack+web+development;Python+%7C+React+%7C+Java+%7C+Cloud;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Bachelor+Graduate+%7C+Code+Pirate" alt="Full Stack Developer, Bachelor Graduate, Code Pirate" />
+<br/>
 
-Kathmandu, Nepal | BSc Computer Science, The British College (Leeds Beckett University)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramish_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramish-sharma-37150133a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pramishsharma.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spramish)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramish_Sharma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramish-sharma-37150133a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pramishsharma.com.np-2F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pramishsharma.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-spramish-181717?style=flat-square&logo=github)](https://github.com/spramish)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=spramish&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/People/Man%20Technologist.png" width="28" /> About Me
 
-I'm a Computer Science graduate from **The British College (Leeds Beckett University)** and work as a **Full Stack Developer /Bachelor Graduate**. I build and maintain web applications, deliver solutions for clients, and work across integrations, deployments, and ongoing website support.
+> Computer Science graduate, full-stack developer, and curious builder from Kathmandu, Nepal.
 
-## Selected Projects
+- 🎓 **BSc Computer Science** — The British College, Leeds Beckett University
+- 💼 Building and maintaining modern web applications at **Techie IT**
+- 🌐 Comfortable across frontend, backend, databases, cloud, and deployments
+- 🚀 Interested in AI, fintech, market analytics, automation, and useful products
+- ⚓ Motto: **Build with purpose. Learn by doing. Keep improving.**
 
-- **Banking System** - C++ banking application for account administration and transactions. *Sep 2023*
-- **Random Email Generator** - Python project using randomization and text manipulation to generate email addresses. *Dec 2024*
-- **Medical Recommendation System** - Healthcare management application with patient records and AI-assisted recommendations. *Python, React.js, MySQL, Machine Learning | May 2025*
-- **[NEPSE Market Prediction System](https://github.com/spramish/Nepse-Prediction-System)** - NEPSE stock analysis and prediction with candlestick patterns, volatility analysis, and risk/reward management. *Java, React.js, Python | Jul 2025*
-- **One-Click Social Media Video Publisher** - In development: cross-platform video publishing with AI-assisted account management and posting-time optimization. *JavaScript, HTML, CSS, React.js, Python | Sep 2026 - Present*
+---
 
-## Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Technology Arsenal
 
-**Full Stack Developer/ Bachelor Graduate - Techie IT**  
-*January 2026 - Present*
+<div align="center">
 
-- Develop and maintain websites and full-stack applications using React, HTML, CSS, JavaScript, and SQL.
-- Deliver client solutions, including integrations, deployments, website management, and ongoing support.
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,php,r&perline=9)](https://skillicons.dev)
 
-## Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,spring,html,css,flutter&perline=9)](https://skillicons.dev)
 
-- **Languages:** C, C++, C#, Java, Python, TypeScript, SQL, R, PHP
-- **Web and frameworks:** React.js, Next.js, Node.js, Express.js, FastAPI, Spring Boot, HTML, CSS, JavaScript
-- **Data:** MongoDB, MySQL, PostgreSQL, SQL, Oracle APEX
-- **Cloud and deployment:** AWS (CloudFront, EC2, S3), Cloudflare, Apache Server
-- **Tools:** VS Code, XAMPP, Postman, Android Studio, Google Drive API, Figma
-- **Mobile:** Flutter, Kotlin (basic)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,cloudflare,git,github,vscode,figma&perline=9)](https://skillicons.dev)
 
-## Education
+</div>
 
-**The British College (Leeds Beckett University)**  
-BSc Computer Science | January 2021 - September 2025
+**Also experienced with:** Kotlin · Android Studio · Apache · XAMPP · Postman · Oracle APEX · SQL · Google Drive API · CloudFront · EC2 · S3
 
-## Achievement
+---
 
-**Hult Prize** - Participant in project-based activities associated with the Hult Prize.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Rocket.png" width="28" /> Featured Work
+
+| Project | What it does | Technology |
+| :--- | :--- | :--- |
+| [**NEPSE Market Prediction System**](https://github.com/spramish/Nepse-Prediction-System) | Stock analysis and prediction using candlestick patterns, volatility analysis, and risk/reward management. | Java · React · Python |
+| **Medical Recommendation System** | Healthcare management with patient records and AI-assisted recommendations. | Python · React · MySQL · ML |
+| **Random Email Generator** | Generates email addresses through Python randomization and text manipulation. | Python |
+| **Banking System** | Account administration and transaction workflows in a C++ application. | C++ |
+| **Social Media Video Publisher** | Cross-platform AI-assisted publishing and post-time optimization. | React · JavaScript · Python |
+
+<div align="center">
+
+[![NEPSE Project](https://github-readme-stats.vercel.app/api/pin/?username=spramish&repo=Nepse-Prediction-System&theme=tokyonight&hide_border=true)](https://github.com/spramish/Nepse-Prediction-System)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Travel%20and%20places/Briefcase.png" width="28" /> Experience
+
+### Full Stack Developer — Techie IT
+**January 2026 – Present**
+
+- Develop and maintain websites and full-stack applications.
+- Work with React, HTML, CSS, JavaScript, SQL, and modern backend tools.
+- Deliver integrations, deployments, client solutions, and ongoing support.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spramish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spramish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=spramish&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emoji/master/Emojis/Objects/Trophy.png" width="28" /> Recognition & Education
+
+- 🏆 **Hult Prize** — Participant in project-based innovation activities
+- 🎓 **BSc Computer Science** — The British College (Leeds Beckett University), 2021–2025
 
 ---
 
 <div align="center">
 
-*Build with purpose. Learn by doing. Keep improving.*
+### Let’s build something valuable.
+
+[![Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pramishsharma.com.np)
+[![LinkedIn](https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramish-sharma-37150133a/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0f172a" />
 
 </div>
